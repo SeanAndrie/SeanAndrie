@@ -1,23 +1,36 @@
 <h1 align="left">Hi, I'm Sean! |  ˙ᵕ˙ )ﾉﾞ</h1>
 
 ###
-
-<p align="left">∩――――∩<br>||     ∧ ﾍ　 ||<br>||    (* ´ ｰ`) ZZzz<br>|ﾉ^⌒⌒づ`￣  ＼<br>(　ノ　　⌒ ヽ ＼<br>＼　　||￣￣￣￣￣||<br>　 ＼,ﾉ||</p>
-
+<table align="center">
+  <td>
+    <p align="left">∩――――∩     ˗ˏˋ ★ ˎˊ˗<br>||    ∧  ﾍ    ||                       <br>||    (* ´ ▽`)  ||  < ᴳᵒᵒᵈᴺⁱᵍʰᵗ   ♡<br>|ﾉ^⌒⌒づ`￣  ＼          <br>(　ノ　　⌒ ヽ ＼<br>＼　　||￣￣￣￣￣||<br>　 ＼,ﾉ||</p>
+  </td>
+  <td>
+    <p align="left">∩――――∩<br>||     ∧ ﾍ　 ||<br>||    (* ´ ｰ`) ZZzz<br>|ﾉ^⌒⌒づ`￣  ＼<br>(　ノ　　⌒ ヽ ＼<br>＼　　||￣￣￣￣￣||<br>　 ＼,ﾉ||</p>
+  </td>
+</table>
 ###
 
 <h2 align="left">ⓘ About Me</h2>
 
 ###
 
-<p align="left">- 🗐 Studying Software Engineering at 42 Abu Dhabi. Check out my projects <a href="https://github.com/SeanAndrie/42-Cursus">here.</a> <br>- 🖳 Passionate about AI and Quantum Computing<br>- 🕮 Currently learning parallel-computing with CUDA-C.<br>-  🗁 Working on my own GPU-accelerated numerical-computing library similar to Python's Numpy.</p>
+<p align="left">- 🗐 Studying Software Engineering at 42 Abu Dhabi. Check out my projects <a href="https://github.com/SeanAndrie/42-Cursus">here.</a> <br>- 🖳 Passionate about AI and Quantum Computing<br>- 🕮 Currently learning parallel-computing with CUDA-C and some ML on the side.<br>-  🗁 Working on my own GPU-accelerated numerical-computing library similar to Python's Numpy.</p>
+
+###
+
+<h1 align="left"></h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeanAndrie&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=SeanAndrie&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeanAndrie&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=SeanAndrie&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h1 align="left"></h1>
 
 ###
 

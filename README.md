@@ -3,13 +3,9 @@
 ###
 <table align="center">
   <td>
-    <p align="left">∩――――∩     ˗ˏˋ ★ ˎˊ˗<br>||    ∧  ﾍ    ||                       <br>||    (* ´ ▽`)  ||  < ᴳᵒᵒᵈᴺⁱᵍʰᵗ   ♡<br>|ﾉ^⌒⌒づ`￣  ＼          <br>(　ノ　　⌒ ヽ ＼<br>＼　　||￣￣￣￣￣||<br>　 ＼,ﾉ||</p>
-  </td>
-  <td>
     <p align="left">∩――――∩<br>||     ∧ ﾍ　 ||<br>||    (* ´ ｰ`) ZZzz<br>|ﾉ^⌒⌒づ`￣  ＼<br>(　ノ　　⌒ ヽ ＼<br>＼　　||￣￣￣￣￣||<br>　 ＼,ﾉ||</p>
   </td>
 </table>
-###
 
 <h2 align="left">ⓘ About Me</h2>
 

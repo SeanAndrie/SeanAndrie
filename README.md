@@ -2,9 +2,16 @@
 
 ###
 <table align="center">
-  <td>
-    <p align="left">∩――――∩<br>||     ∧ ﾍ　 ||<br>||    (* ´ ｰ`) ZZzz<br>|ﾉ^⌒⌒づ`￣  ＼<br>(　ノ　　⌒ ヽ ＼<br>＼　　||￣￣￣￣￣||<br>　 ＼,ﾉ||</p>
-  </td>
+  <tr>
+      <td>
+        <p align="center">ᶻ 𝗓 𐰁ᶻ</p>
+      </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="left">∩――――∩<br>||     ∧ ﾍ　 ||<br>||    (* ´ ｰ`) ||<br>|ﾉ^⌒⌒づ`￣  ＼<br>(　ノ　　⌒ ヽ ＼<br>＼　　||￣￣￣￣￣||<br>　 ＼,ﾉ||</p>
+    </td>
+  </tr>
 </table>
 
 <h2 align="left">ⓘ About Me</h2>

@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🗐 Studying Software Engineering at 42 Abu Dhabi. Check out my projects <a href="https://github.com/SeanAndrie/42-Cursus">here</a>.<br>- 🖳 Passionate about AI and Quantum Computing<br>- 🕮 Currently learning parallel-computing with CUDA-C and some ML on the side.<br>-  🗁 Working on my own simplified GPU-accelerated numerical-computing library similar to Python's Numpy.</p>
+<p align="left">- 🗐 Studying Software Engineering at 42 Abu Dhabi. Check out my projects <a href="https://github.com/SeanAndrie/42-Cursus">here</a>.<br>- 🖳 Passionate about AI and Quantum Computing<br>- 🕮 Currently learning parallel-computing with CUDA-C and some ML on the side.<br>-  🗁 Working on my own simplified GPU-accelerated numerical-computing library.</p>
 
 ###
 

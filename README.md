@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🗐 Studying Software Development at 42 Abu Dhabi. Check out my projects <a href="https://github.com/SeanAndrie/42-Cursus">here</a>.<br>- 🕮 Currently learning quantum computing fundamentals and machine learning concepts.<br>-  🗁 Working on MiniRT, CPP modules, and a light-weight tensor library for C.</p>
+<p align="left">- 🗐 Studying Software Development at 42 Abu Dhabi. Check out my projects <a href="https://github.com/SeanAndrie/42-Cursus">here</a>.<br>- 🕮 Currently learning quantum computing fundamentals and revising machine learning concepts.<br>-  🗁 Working on MiniRT, CPP modules, and a light-weight tensor library for C.</p>
 
 ###
 

@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Sean! |  ˙ᵕ˙ )ﾉﾞ</h1>
+<h1 align="left">Hi, I'm Sean!</h1>
 
 ###
 <table align="center">

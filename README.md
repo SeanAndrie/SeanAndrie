@@ -18,19 +18,28 @@
 
 ###
 
-<p align="left">- 🗐 Studying Software Development at 42 Abu Dhabi. Check out my projects <a href="https://github.com/SeanAndrie/42-Cursus">here</a>.<br>- 🕮 Currently learning quantum computing fundamentals and revising machine learning concepts.<br>-  🗁 Working on MiniRT, CPP modules, and a light-weight tensor library for C.</p>
+<p align="left">
+- ✧ Studying Software Development at 42 Abu Dhabi. Check out my projects <a href="https://github.com/SeanAndrie/42-Cursus">here</a>.<br>
+- ✧ Currently learning quantum computing fundamentals and revising machine learning concepts.<br>
+- ✧ Working on MiniRT, CPP modules, and a light-weight tensor library for C.
+</p>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sean-andrie-gadingan-703620297/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
+
   <a href="https://www.instagram.com/saintseans_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
+
   <a href="mailto:seanandriegadingan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+  </a>
+  <a href="https://seanandrie.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=googledocs&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="resume logo" />
   </a>
 </div>
 
@@ -41,19 +50,21 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.simpleicons.org/c/ffffff" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/cplusplus/ffffff" height="40" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img src="https://cdn.simpleicons.org/python/ffffff" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.simpleicons.org/scikitlearn/ffffff" height="40" alt="scikit-learn logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.simpleicons.org/pytorch/ffffff" height="40" alt="pytorch logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/numpy/ffffff" height="40" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/ffffff" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/ffffff" height="40" alt="firebase logo" />
 </div>
-
-###
 
 ###

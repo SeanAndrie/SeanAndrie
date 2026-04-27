@@ -14,6 +14,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SeanAndrie&color=1f1f1f&style=for-the-badge&label=👁️" />
+</div>
+
 <h2 align="left">ⓘ About Me</h2>
 
 ###

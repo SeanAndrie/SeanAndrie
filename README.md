@@ -1,6 +1,9 @@
 <h1 align="left">Hi, I'm Sean!</h1>
 
 ###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SeanAndrie&color=1f1f1f&style=flat-square&label=⌞+++⌝" />
+</div>
 <table align="center">
   <tr>
       <td>
@@ -13,10 +16,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeanAndrie&color=1f1f1f&style=for-the-badge&label=👁️" />
-</div>
 
 <h2 align="left">ⓘ About Me</h2>
 
